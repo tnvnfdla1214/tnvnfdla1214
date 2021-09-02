@@ -1,6 +1,9 @@
 ### 👋 안녕하세요. 안드로이드 신입개발자를 꿈꾸는 임민규입니다.🌱🌱🌱
 ___
 ####  💪 SKILLS
+
+자신있는 툴과 언어는
+
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Firebase -FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
 
 현재 학습중인 언어로는
