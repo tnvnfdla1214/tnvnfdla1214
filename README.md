@@ -7,7 +7,7 @@ ___
 
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white">
 
-대회에 참여하여 수상한 툴은 (3등 하였습니다. :relaxed:)
+대회에 참여하여 수상한 툴은 (3등 하였습니다 :relaxed:)
 
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
 
