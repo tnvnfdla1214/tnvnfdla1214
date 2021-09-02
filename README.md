@@ -11,15 +11,31 @@ ___
 
 #### :mortar_board: 안드로이드 신입개발자가 배워야할 스택
 (주관적 기준으로 작성하였습니다.)
-
++ 안드로이드 기본 기능 활용
+  + 브로드캐스트리시버 활용
+  + RecyclerView 활용
 + SNS 회원가입/로그인
+  + 조치원 수호대
 + 외부 리소스 활용(오픈 API 활용)
 + Firebase 활용
+  + Firebase-Auth
+  + FireStore 
+  + Storage
+  + FCM
 + 미디어
 + 위치정보 활용
 + 비동기 개념
 + JetPack 라이브러리 활용
+  + Room
+  + ViewPager2
+  + ViewModel
+  + LiveData
+  + LifeCycle
+  + Notifications
+  + Fragment
 + 아키텍쳐 패턴 적용(ACC-VM)
+  + Mvvm 패턴 설명
+  + Mvvm+acc 시작해보기 ( Room + LiveData + RecyclerView)
 + Unit Test
 
 
