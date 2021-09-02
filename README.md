@@ -7,6 +7,13 @@ ___
 
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white">
 
+대회에 참여하여 수상한 툴은 (3등 하였습니다. :relaxed:)
+
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
+
+스프링도 학습한 경험이 있습니다.(JPA를 활용하여 아주 쬐에에끔 나중에 공부 다시 해야지:pensive:)
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 ___
 
 #### :mortar_board: 안드로이드 신입개발자가 배워야할 스택
