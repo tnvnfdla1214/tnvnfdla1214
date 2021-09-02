@@ -26,7 +26,7 @@ ___
   + 브로드캐스트리시버 활용
   + RecyclerView 활용
 + SNS 회원가입/로그인
-  + 조치원 수호대
+  + [조치원 수호대](https://github.com/tnvnfdla1214)
 + 외부 리소스 활용(오픈 API 활용)
 + Firebase 활용
   + Firebase-Auth
