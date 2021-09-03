@@ -46,7 +46,7 @@ ___
   + Fragment
 + 아키텍쳐 패턴 적용(ACC-VM)
   + Mvvm 패턴 설명
-  + Mvvm+acc 시작해보기 ( Room + LiveData + RecyclerView)
+  + Mvvm+acc 시작해보기 ( Room + viewModel + LiveData + RecyclerView)
 + Unit Test
 
 
