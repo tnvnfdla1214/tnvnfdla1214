@@ -37,11 +37,13 @@ ___
 + 위치정보 활용
 + 비동기 개념
 + JetPack 라이브러리 활용
+  + lifecycle
+  + paging
+  + databinding
   + Room
   + ViewPager2
   + ViewModel
   + LiveData
-  + LifeCycle
   + Notifications
   + Fragment
 + 아키텍쳐 패턴 적용(ACC-VM)
