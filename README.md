@@ -23,32 +23,30 @@ ___
 #### :mortar_board: 안드로이드 신입개발자가 배워야할 스택
 (주관적 기준으로 작성하였습니다.)
 + 안드로이드 기본 기능 활용
-  + 브로드캐스트리시버 활용
+  + [브로드캐스트리시버 활용](https://github.com/tnvnfdla1214/BroadcastReceiver)
   + RecyclerView 활용
 + SNS 회원가입/로그인
-  + [조치원 수호대](https://github.com/tnvnfdla1214)
-+ 외부 리소스 활용(오픈 API 활용)
++ [외부 리소스 활용(오픈 API 활용)](https://github.com/tnvnfdla1214/Airbnb_project)
 + Firebase 활용
   + Firebase-Auth
   + FireStore 
   + Storage
-  + FCM
+  + [FCM](https://github.com/tnvnfdla1214/BroadcastReceiver)
 + 미디어
-+ 위치정보 활용
-+ 비동기 개념
++ [위치정보 활용](https://github.com/tnvnfdla1214/Airbnb_project)
 + JetPack 라이브러리 활용
   + lifecycle
   + paging
   + databinding
-  + Room
-  + ViewPager2
-  + ViewModel
-  + LiveData
-  + Notifications
+  + [Room](https://github.com/tnvnfdla1214/Room_Example)
+  + [ViewPager2](https://github.com/tnvnfdla1214/Airbnb_project)
+  + [ViewModel](https://github.com/tnvnfdla1214/MvvmExample)
+  + [LiveData](https://github.com/tnvnfdla1214/MvvmExample)
+  + [Notifications](https://github.com/tnvnfdla1214/BroadcastReceiver)
   + Fragment
 + 아키텍쳐 패턴 적용(ACC-VM)
-  + Mvvm 패턴 설명
-  + Mvvm+acc 시작해보기 ( Room + viewModel + LiveData + RecyclerView)
+  + [Mvvm 패턴 설명](https://github.com/tnvnfdla1214/tnvnfdla1214-Mvvm-patten-Infomation)
+  + [Mvvm+acc 시작해보기 ( Room + viewModel + LiveData + RecyclerView)] (https://github.com/tnvnfdla1214/MvvmExample)
 + Unit Test
 
 
