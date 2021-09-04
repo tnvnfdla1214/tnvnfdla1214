@@ -46,7 +46,7 @@ ___
   + Fragment
 + 아키텍쳐 패턴 적용(ACC-VM)
   + [Mvvm 패턴 설명](https://github.com/tnvnfdla1214/tnvnfdla1214-Mvvm-patten-Infomation)
-  + [Mvvm+acc 시작해보기 ( Room + viewModel + LiveData + RecyclerView)] (https://github.com/tnvnfdla1214/MvvmExample)
+  + [Mvvm+acc 시작해보기](https://github.com/tnvnfdla1214/MvvmExample) ( Room + viewModel + LiveData + RecyclerView)
 + Unit Test
 
 
