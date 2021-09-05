@@ -1,28 +1,28 @@
 ### 👋 안녕하세요. 안드로이드 신입개발자를 꿈꾸는 임민규입니다.🌱🌱🌱
-___
+***
+### :crown: Prize
++ 제6회 SW경시대회
++ 2019 세종 창업 공모전
++ 2019 와디즈 대학생 아이디어 공모전
+
 ####  💪 SKILLS
+| 난의도 | 설명 |
+|:------:|:------:|
+| 4 |대규모 프로그램 및 시스템을 참고사항 없이 개발할 수 있으며, 일반적이지 않은 부분도 일부 참고를 통해 개발할 수 있음|
+| 3 |중간규모 프로그램 및 시스템을 개발할수 있으며, 주요 이슈 트러블슈팅을 할 수 있고 내부구조에 대해 이해하고 있음|
+| 2 |시스템 동작 방식을 알고 있으며, 기본적인 기능을 구현할 수 있음|
+| 1 |코드를 읽을 수 있으며, 책을 참고하여 약간의 수정작업 또는 작은 변경사항 추가를 할 수 있음|
 
-자신있는 툴과 언어는
+| 난의도 | 설명 |
+|:------:|:------:|
+| 4 | |
+| 3 |<img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
+| 2 |<img src="https://img.shields.io/badge/Firebase -FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white">|
+| 1 |<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">|
+***
+#### :necktie: 참여한 프로젝트
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Firebase -FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
 
-현재 학습중인 언어로는
-
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white">
-
-[대회](https://home.sejong.ac.kr/bbs/bbsview.do?wslID=swc&bbsid=1894&pkid=12513)에 참여하여 수상하였습니다 :relaxed:) <- 정리 x
-
-관련 출품작 : [Thrieve](https://github.com/tnvnfdla1214/VR-Game)
-
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
-
-스프링도 학습한 경험이 있습니다.(JPA를 활용하여 아주 쬐에에끔 나중에 공부 다시 해야지:pensive:) <- 정리 x
-
-관련 프로젝트 : [네이버 맛집 찾기](https://github.com/tnvnfdla1214/restaurant)
-
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-
-___
 
 #### :mortar_board: 안드로이드 신입개발자가 배워야할 스택
 (주관적 기준으로 작성하였습니다.)
