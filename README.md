@@ -1,9 +1,10 @@
 ### 👋 안녕하세요. 안드로이드 신입개발자를 꿈꾸는 임민규입니다.🌱🌱🌱
 ***
 ### :crown: Prize
-+ 제6회 SW경시대회
-+ 2019 세종 창업 공모전
-+ 2019 와디즈 대학생 아이디어 공모전
++ [제6회 SW경시대회](https://www.swuniv.kr/notice/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6NTM7fQ%3D%3D&bmode=view&idx=2647453&t=board) 4등
++ 캡스톤 공모전 장려상
++ [2019 세종 창업 공모전](https://www.wevity.com/index_university.php?c=find&s=_university&gbn=viewok&gp=57&ix=36940) 장려상
++ [2019 와디즈 대학생 아이디어 공모전](https://www.venturesquare.net/789592) 2등
 
 ####  💪 SKILLS
 | 난이도 | 설명 |
@@ -22,7 +23,17 @@
 ***
 #### :necktie: 참여한 프로젝트
 
+:elephant:팀
++ [조치원 수호대](https://github.com/tnvnfdla1214/homemade_guardian)
++ [체크 메모장](https://github.com/tnvnfdla1214/CheckAlarmList)
++ [Malang](https://github.com/tnvnfdla1214/Malang)
 
+:penguin:개인
++ weather
++ [맛집 찾기](https://github.com/tnvnfdla1214/restaurant)
++ [애에비엔비](https://github.com/tnvnfdla1214/Airbnb_project)
++ [룸 예제 프로젝트](https://github.com/tnvnfdla1214/Room_Example)
++ [MVVM 예제 프로젝트](https://github.com/tnvnfdla1214/MvvmExample)
 
 #### :mortar_board: 안드로이드 신입개발자가 배워야할 스택
 (주관적 기준으로 작성하였습니다.)
