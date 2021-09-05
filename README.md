@@ -27,7 +27,7 @@ ___
   + RecyclerView 활용
 + SNS 회원가입/로그인
 + [외부 리소스 활용(오픈 API 활용)](https://github.com/tnvnfdla1214/Airbnb_project)
-+ Firebase 활용
++ Firebase 활용 (서버 & DB)
   + Firebase-Auth
   + FireStore 
   + Storage
