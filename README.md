@@ -30,8 +30,8 @@ ___
 + [외부 리소스 활용(오픈 API 활용)](https://github.com/tnvnfdla1214/Airbnb_project)
 + Firebase 활용 (서버 & DB)
   + [Firebase-Auth](https://github.com/tnvnfdla1214/SNS_Login)
-  + FireStore 
-  + Storage
+  + [FireStore](https://github.com/tnvnfdla1214/FireStore/blob/main/README.md) 
+  + [Storage](https://github.com/tnvnfdla1214/FireStore/blob/main/README.md)
   + [FCM](https://github.com/tnvnfdla1214/BroadcastReceiver)
 + 미디어
 + [위치정보 활용](https://github.com/tnvnfdla1214/Airbnb_project)
