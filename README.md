@@ -24,11 +24,12 @@ ___
 (주관적 기준으로 작성하였습니다.)
 + 안드로이드 기본 기능 활용
   + [브로드캐스트리시버 활용](https://github.com/tnvnfdla1214/BroadcastReceiver)
-  + RecyclerView 활용
-+ SNS 회원가입/로그인
+  + [RecyclerView 활용](https://github.com/tnvnfdla1214/Recyclerview)
+  + Fragment
++ [SNS 회원가입/로그인](https://github.com/tnvnfdla1214/SNS_Login)
 + [외부 리소스 활용(오픈 API 활용)](https://github.com/tnvnfdla1214/Airbnb_project)
 + Firebase 활용 (서버 & DB)
-  + Firebase-Auth
+  + [Firebase-Auth](https://github.com/tnvnfdla1214/SNS_Login)
   + FireStore 
   + Storage
   + [FCM](https://github.com/tnvnfdla1214/BroadcastReceiver)
@@ -43,7 +44,6 @@ ___
   + [ViewModel](https://github.com/tnvnfdla1214/MvvmExample)
   + [LiveData](https://github.com/tnvnfdla1214/MvvmExample)
   + [Notifications](https://github.com/tnvnfdla1214/BroadcastReceiver)
-  + Fragment
 + 아키텍쳐 패턴 적용(ACC-VM)
   + [Mvvm 패턴 설명](https://github.com/tnvnfdla1214/tnvnfdla1214-Mvvm-patten-Infomation)
   + [Mvvm+acc 시작해보기](https://github.com/tnvnfdla1214/MvvmExample) ( Room + viewModel + LiveData + RecyclerView)
