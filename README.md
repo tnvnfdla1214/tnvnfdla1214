@@ -13,7 +13,7 @@
 | 2 |시스템 동작 방식을 알고 있으며, 기본적인 기능을 구현할 수 있음|
 | 1 |코드를 읽을 수 있으며, 책을 참고하여 약간의 수정작업 또는 작은 변경사항 추가를 할 수 있음|
 
-| 난이도 | 설명 |
+| 난이도 | Stack |
 |:------:|:------:|
 | 4 | |
 | 3 |<img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
