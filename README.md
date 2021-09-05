@@ -2,7 +2,7 @@
 ***
 ### :crown: Prize
 + [제6회 SW경시대회](https://www.swuniv.kr/notice/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6NTM7fQ%3D%3D&bmode=view&idx=2647453&t=board) 4등
-+ 캡스톤 공모전 장려상
++ [캡스톤 공모전](https://github.com/tnvnfdla1214/VR-Game/blob/master/README.md) 장려상
 + [2019 세종 창업 공모전](https://www.wevity.com/index_university.php?c=find&s=_university&gbn=viewok&gp=57&ix=36940) 장려상
 + [2019 와디즈 대학생 아이디어 공모전](https://www.venturesquare.net/789592) 2등
 
@@ -19,22 +19,23 @@
 | 4 | |
 | 3 |<img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
 | 2 |<img src="https://img.shields.io/badge/Firebase -FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white">|
-| 1 |<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">|
+| 1 |<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">|
+
 ***
 #### :necktie: 참여한 프로젝트
 
 :elephant:팀
-+ [조치원 수호대](https://github.com/tnvnfdla1214/homemade_guardian)
-+ [체크 메모장](https://github.com/tnvnfdla1214/CheckAlarmList)
-+ [Malang](https://github.com/tnvnfdla1214/Malang)
-+ [Thieves]()
++ [조치원 수호대](https://github.com/tnvnfdla1214/homemade_guardian) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
++ [체크 메모장](https://github.com/tnvnfdla1214/CheckAlarmList) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
++ [Malang](https://github.com/tnvnfdla1214/Malang) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
++ weather <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
++ [Thieves](https://github.com/tnvnfdla1214/VR-Game/blob/master/README.md)
 
 :penguin:개인
-+ weather
-+ [맛집 찾기](https://github.com/tnvnfdla1214/restaurant)
-+ [애에비엔비](https://github.com/tnvnfdla1214/Airbnb_project)
-+ [룸 예제 프로젝트](https://github.com/tnvnfdla1214/Room_Example)
-+ [MVVM 예제 프로젝트](https://github.com/tnvnfdla1214/MvvmExample)
++ [맛집 찾기](https://github.com/tnvnfdla1214/restaurant) <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
++ [애에비엔비](https://github.com/tnvnfdla1214/Airbnb_project) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
++ [룸 예제 프로젝트](https://github.com/tnvnfdla1214/Room_Example) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
++ [MVVM 예제 프로젝트](https://github.com/tnvnfdla1214/MvvmExample) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
 
 #### :mortar_board: 안드로이드 신입개발자가 배워야할 스택
 (주관적 기준으로 작성하였습니다.)
