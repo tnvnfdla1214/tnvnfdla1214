@@ -10,13 +10,13 @@ ___
 
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white">
 
-[대회](https://home.sejong.ac.kr/bbs/bbsview.do?wslID=swc&bbsid=1894&pkid=12513)에 참여하여 수상하였습니다 :relaxed:)
+[대회](https://home.sejong.ac.kr/bbs/bbsview.do?wslID=swc&bbsid=1894&pkid=12513)에 참여하여 수상하였습니다 :relaxed:) <- 정리 x
 
 관련 출품작 : [Thrieve](https://github.com/tnvnfdla1214/VR-Game)
 
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
 
-스프링도 학습한 경험이 있습니다.(JPA를 활용하여 아주 쬐에에끔 나중에 공부 다시 해야지:pensive:)
+스프링도 학습한 경험이 있습니다.(JPA를 활용하여 아주 쬐에에끔 나중에 공부 다시 해야지:pensive:) <- 정리 x
 
 관련 프로젝트 : [네이버 맛집 찾기](https://github.com/tnvnfdla1214/restaurant)
 
