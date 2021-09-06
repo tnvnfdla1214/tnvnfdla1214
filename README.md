@@ -28,7 +28,6 @@
 + [조치원 수호대](https://github.com/tnvnfdla1214/homemade_guardian) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
 + [체크 메모장](https://github.com/tnvnfdla1214/CheckAlarmList) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
 + [Malang](https://github.com/tnvnfdla1214/Malang) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
-+ weather <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 + [Thieves](https://github.com/tnvnfdla1214/VR-Game/blob/master/README.md) <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
 
 :penguin:개인
