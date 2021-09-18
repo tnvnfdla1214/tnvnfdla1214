@@ -29,6 +29,7 @@
   + [Storage](https://github.com/tnvnfdla1214/FireStore/blob/main/README.md)
   + [FCM](https://github.com/tnvnfdla1214/BroadcastReceiver)
 + 비동기 처리(Coroutines)
+  + 코루틴 설명
 + [위치정보 활용](https://github.com/tnvnfdla1214/Airbnb_project)
 + JetPack 라이브러리 활용
   + lifecycle
