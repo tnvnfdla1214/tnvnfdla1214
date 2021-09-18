@@ -28,7 +28,7 @@
   + [FireStore](https://github.com/tnvnfdla1214/FireStore/blob/main/README.md) 
   + [Storage](https://github.com/tnvnfdla1214/FireStore/blob/main/README.md)
   + [FCM](https://github.com/tnvnfdla1214/BroadcastReceiver)
-+ 미디어
++ 비동기 처리(Coroutines)
 + [위치정보 활용](https://github.com/tnvnfdla1214/Airbnb_project)
 + JetPack 라이브러리 활용
   + lifecycle
@@ -40,10 +40,10 @@
   + [ViewModel](https://github.com/tnvnfdla1214/MvvmExample)
   + [LiveData](https://github.com/tnvnfdla1214/MvvmExample)
   + [Notifications](https://github.com/tnvnfdla1214/BroadcastReceiver)
-+ 아키텍쳐 패턴 적용(ACC-VM)
++ 아키텍쳐 패턴 적용
   + [Mvvm 패턴 설명](https://github.com/tnvnfdla1214/tnvnfdla1214-Mvvm-patten-Infomation)
   + [Mvvm+acc 시작해보기](https://github.com/tnvnfdla1214/MvvmExample) ( Room + viewModel + LiveData + RecyclerView)
-  + MVP와 Koin 사용해보기
+  + MVP
   + 
 + Unit Test
   + Junit4
