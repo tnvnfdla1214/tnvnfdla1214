@@ -47,7 +47,7 @@
   + MVP
   + 
 + Unit Test
-  + Junit4
+  + TDD(JUnit4)
   + Mockito
   + Koin-Test
 
