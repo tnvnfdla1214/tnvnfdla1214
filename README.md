@@ -15,7 +15,7 @@
 | 1 |코드를 읽을 수 있으며, 책을 참고하여 약간의 수정작업 또는 작은 변경사항 추가를 할 수 있음|<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">|
 
 ***
-#### :mortar_board: 안드로이드 신입개발자가 배워야할 스택
+#### :mortar_board: 안드로이드 신입개발자  스택
 (주관적 기준으로 작성하였습니다.)
 + 안드로이드 기본 기능 활용
   + [브로드캐스트리시버 활용](https://github.com/tnvnfdla1214/BroadcastReceiver)
