@@ -43,6 +43,8 @@
   + [LiveData](https://github.com/tnvnfdla1214/MvvmExample)
   + [Notifications](https://github.com/tnvnfdla1214/BroadcastReceiver)
 + 아키텍쳐 패턴 적용
+  + [DI설명과 Koin]()
+  + [Koin 사용]()
   + [Mvvm 패턴 설명](https://github.com/tnvnfdla1214/tnvnfdla1214-Mvvm-patten-Infomation)
   + [Mvvm+acc 시작해보기](https://github.com/tnvnfdla1214/MvvmExample) ( Room + viewModel + LiveData + RecyclerView)
   + MVP
