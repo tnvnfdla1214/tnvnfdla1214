@@ -33,15 +33,17 @@
   + [코루틴 튜토리얼](https://github.com/tnvnfdla1214/Coroutine_-tutorial)
 + [위치정보 활용](https://github.com/tnvnfdla1214/Airbnb_project)
 + JetPack 라이브러리 활용
+  + [ViewPager2](https://github.com/tnvnfdla1214/Airbnb_project)
+  + [Notifications](https://github.com/tnvnfdla1214/BroadcastReceiver)
   + lifecycle
   + paging
-  + databinding
-  + [Room](https://github.com/tnvnfdla1214/Room_Example)
   + Navigation
-  + [ViewPager2](https://github.com/tnvnfdla1214/Airbnb_project)
-  + [ViewModel](https://github.com/tnvnfdla1214/MvvmExample)
-  + [LiveData](https://github.com/tnvnfdla1214/MvvmExample)
-  + [Notifications](https://github.com/tnvnfdla1214/BroadcastReceiver)
+  + ACC
+     + [ViewModel](https://github.com/tnvnfdla1214/MvvmExample)
+     + [LiveData](https://github.com/tnvnfdla1214/MvvmExample)
+     + Repository
+     + [RoomDatabase](https://github.com/tnvnfdla1214/Room_Exampl)
+     + Databinding
 + 아키텍쳐 패턴 적용
   + [DI설명과 Koin]()
   + [Koin 사용]()
