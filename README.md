@@ -39,19 +39,16 @@
   + paging
   + Navigation
   + ACC
-     + [ViewModel](https://github.com/tnvnfdla1214/MvvmExample)
-     + [LiveData](https://github.com/tnvnfdla1214/MvvmExample)
+     + [ViewModel](https://github.com/tnvnfdla1214/viewmodel22)
+     + [LiveData](https://github.com/tnvnfdla1214/LiveData)
      + Repository
      + [RoomDatabase](https://github.com/tnvnfdla1214/Room_Exampl)
      + [Databinding](https://github.com/tnvnfdla1214/databinding)
 + 아키텍쳐 패턴 적용
-  + [DI설명과 Koin]()
-  + [Koin 사용]()
+  + [DI설명과 Koin](https://github.com/tnvnfdla1214/DI-and-Koin)
+  + [Koin 사용](https://github.com/tnvnfdla1214/Koin)
   + [Mvvm 패턴 설명](https://github.com/tnvnfdla1214/tnvnfdla1214-Mvvm-patten-Infomation)
   + [Mvvm+acc 시작해보기](https://github.com/tnvnfdla1214/MvvmExample) ( Room + viewModel + LiveData + RecyclerView)
-  + MVP
-    +  
-  + 
 + Unit Test
   + [TDD](https://github.com/tnvnfdla1214/TDD)
 
