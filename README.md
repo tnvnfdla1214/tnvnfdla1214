@@ -45,6 +45,7 @@
      + [RoomDatabase](https://github.com/tnvnfdla1214/Room_Exampl)
      + [Databinding](https://github.com/tnvnfdla1214/databinding)
 + 아키텍쳐 패턴 적용
+  + [MVVM-VM과 AAC-VM의 차이](https://github.com/tnvnfdla1214/MVVM-VM-AAC-VM-)
   + [DI설명과 Koin](https://github.com/tnvnfdla1214/DI-and-Koin)
   + [Koin 사용](https://github.com/tnvnfdla1214/Koin)
   + [Mvvm 패턴 설명](https://github.com/tnvnfdla1214/tnvnfdla1214-Mvvm-patten-Infomation)
