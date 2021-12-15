@@ -44,7 +44,7 @@
      + [RoomDatabase](https://github.com/tnvnfdla1214/Room_Exampl)
      + [Databinding](https://github.com/tnvnfdla1214/databinding)
 + 아키텍쳐 패턴
-  + [MVC와 MVP와 MVVM에 대하여](https://github.com/tnvnfdla1214/MVC_MVP_MVVM)
+  + [MVC와 MVP와 MVVM에 대한 간단한 설명](https://github.com/tnvnfdla1214/MVC_MVP_MVVM)
   + 다자인 패턴과 클린 아키텍쳐
   + MVVM의 데이터 바인딩
 
