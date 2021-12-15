@@ -16,7 +16,6 @@
 
 ***
 #### :mortar_board: 안드로이드 신입개발자  스택
-(주관적 기준으로 작성하였습니다.)
 + 안드로이드 기본 기능 활용
   + [브로드캐스트리시버 활용](https://github.com/tnvnfdla1214/BroadcastReceiver)
   + [RecyclerView 활용](https://github.com/tnvnfdla1214/Recyclerview)
@@ -44,14 +43,10 @@
      + Repository
      + [RoomDatabase](https://github.com/tnvnfdla1214/Room_Exampl)
      + [Databinding](https://github.com/tnvnfdla1214/databinding)
-+ 아키텍쳐 패턴 적용
-  + [MVVM-VM과 AAC-VM의 차이](https://github.com/tnvnfdla1214/MVVM-VM-AAC-VM-)
-  + [DI설명과 Koin](https://github.com/tnvnfdla1214/DI-and-Koin)
-  + [Koin 사용](https://github.com/tnvnfdla1214/Koin)
-  + [Mvvm 패턴 설명](https://github.com/tnvnfdla1214/tnvnfdla1214-Mvvm-patten-Infomation)
-  + [Mvvm+acc 시작해보기](https://github.com/tnvnfdla1214/MvvmExample) ( Room + viewModel + LiveData + RecyclerView)
-+ Unit Test
-  + [TDD](https://github.com/tnvnfdla1214/TDD)
++ 아키텍쳐 패턴
+  + MVC와 MVP와 MVVM에 대하여
+  + 다자인 패턴과 클린 아키텍쳐
+  + MVVM의 데이터 바인딩
 
 ***
 
