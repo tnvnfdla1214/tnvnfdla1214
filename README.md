@@ -42,10 +42,14 @@
      + [LiveData](https://github.com/tnvnfdla1214/LiveData)
      + Repository
      + [RoomDatabase](https://github.com/tnvnfdla1214/Room_Exampl)
-     + [Databinding](https://github.com/tnvnfdla1214/databinding)
 + 아키텍쳐 패턴
   + [MVC와 MVP와 MVVM에 대한 간단한 설명](https://github.com/tnvnfdla1214/MVC_MVP_MVVM)
   + [DataBinding](https://github.com/tnvnfdla1214/DataBinding_info)
+      + 1. Kotlin Android Extensions,Viewbinding,databinding
+      + 2. data binding 과 live data 동시 적용해보자
+      + 3. 리사이클러 뷰에 databinding적용해보기
+      + 4. databinding의 Two-way Binding
+      + 5. DataBinding의 BindingAdapter
   + [MVVM에 대하여](https://github.com/tnvnfdla1214/MVVM)
   + 다자인 패턴과 클린 아키텍쳐
 
