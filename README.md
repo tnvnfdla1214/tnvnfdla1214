@@ -45,8 +45,8 @@
 + 아키텍쳐 패턴
   + [MVC와 MVP와 MVVM에 대한 간단한 설명](https://github.com/tnvnfdla1214/MVC_MVP_MVVM)
   + [DataBinding](https://github.com/tnvnfdla1214/DataBinding_info)
-      + 1. Kotlin Android Extensions,Viewbinding,databinding
-      + 2. data binding 과 live data 동시 적용해보자
+      + 1. 데이터바인딩 사용 기본 방법
+      + 2. data binding에 live data 사용 방법
       + 3. 리사이클러 뷰에 databinding적용해보기
       + 4. databinding의 Two-way Binding
       + 5. DataBinding의 BindingAdapter
