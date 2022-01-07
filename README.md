@@ -50,7 +50,7 @@
       + 3. 리사이클러 뷰에 databinding적용해보기
       + 4. databinding의 Two-way Binding
       + 5. DataBinding의 BindingAdapter
-      + 6. DataBinding 예시 프로젝트
+      + [6. DataBinding 예시 프로젝트](https://github.com/tnvnfdla1214/DataBinding_ex)
   + [MVVM에 대하여](https://github.com/tnvnfdla1214/MVVM)
   + 다자인 패턴과 클린 아키텍쳐
 
