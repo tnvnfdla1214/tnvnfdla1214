@@ -48,8 +48,8 @@
       + [1. 데이터바인딩 사용 기본 방법](https://github.com/tnvnfdla1214/Databinding_1)
       + [2. data binding에 live data 사용 방법](https://github.com/tnvnfdla1214/DataBinding_2)
       + [3. 리사이클러 뷰에 databinding적용해보기](https://github.com/tnvnfdla1214/DataBinding_3)
-      + 4. databinding의 Two-way Binding
-      + 5. [DataBinding의 BindingAdapter](https://github.com/tnvnfdla1214/DataBinding_4)
+      + [4. databinding의 Two-way Binding]()
+      + [5. DataBinding의 BindingAdapter](https://github.com/tnvnfdla1214/DataBinding_4)
       + [6. DataBinding 예시 프로젝트](https://github.com/tnvnfdla1214/DataBinding_ex)
   + [MVVM에 대하여](https://github.com/tnvnfdla1214/MVVM)
   + 다자인 패턴과 클린 아키텍쳐
