@@ -42,6 +42,12 @@
      + [LiveData](https://github.com/tnvnfdla1214/LiveData)
      + Repository
      + [RoomDatabase](https://github.com/tnvnfdla1214/Room_Exampl)
++ 앱 아키텍쳐 가이드
+  + UI 레이어
+  + 도메인 레이어
+  + 데이터 레이어
+  + 구성 요소간의 종속성 관리
+  + 일반적인 모범 사례
 + 아키텍쳐 패턴
   + [MVC와 MVP와 MVVM에 대한 간단한 설명](https://github.com/tnvnfdla1214/MVC_MVP_MVVM)
   + [DataBinding](https://github.com/tnvnfdla1214/DataBinding_info)
