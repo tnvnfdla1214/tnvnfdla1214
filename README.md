@@ -56,7 +56,7 @@
 <details> 
   <summary>JetPack</summary> 
   
-   - [DataBinding](https://github.com/likppi10/DataBinding)
+   - [DataBinding](https://github.com/tnvnfdla1214/DataBinding_info)
    - Room
    - Navigation
    - ViewModel
