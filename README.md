@@ -1,18 +1,23 @@
-### 👋 안녕하세요. 안드로이드 신입개발자를 꿈꾸는 임민규입니다.🌱🌱🌱
-***
-### :crown: Prize
-+ [제6회 SW경시대회](https://www.swuniv.kr/notice/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6NTM7fQ%3D%3D&bmode=view&idx=2647453&t=board) 4등
-+ [캡스톤 공모전](https://github.com/tnvnfdla1214/VR-Game/blob/master/README.md) 장려상
-+ [2019 세종 창업 공모전](https://www.wevity.com/index_university.php?c=find&s=_university&gbn=viewok&gp=57&ix=36940) 장려상
-+ [2019 와디즈 대학생 아이디어 공모전](https://www.venturesquare.net/789592) 2등
+![header](https://capsule-render.vercel.app/api?type=waving&color=20b2aa&text=Mingyu's%20GIT&fontAlign=80&fontSize=40&fontColor=009999)
+<h2 align = center><b>⚙️  Tech Stack ⚙️ </h2>
+<p align = center>
+    <img src="http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
+    <img src="http://img.shields.io/badge/-Java-3f00ff?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+    <img src="http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
+    <br>
+    <img src="http://img.shields.io/badge/-Spring-b4eeb4?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+    <img src="http://img.shields.io/badge/-SpringBoot-b4eeb4?style=flat-square&logo=SpringBoot"/></a>&nbsp
+    <img src="http://img.shields.io/badge/-FireBase-990000?style=flat-square&logo=FireBase"/></a>&nbsp
+    <br>
+</p>
 
 ####  💪 SKILLS
-| 난이도 | 설명 | Stack |
-|:------:|:------:|:------:|
-| 4 |대규모 프로그램 및 시스템을 참고사항 없이 개발할 수 있으며, 일반적이지 않은 부분도 일부 참고를 통해 개발할 수 있음|
-| 3 |중간규모 프로그램 및 시스템을 개발할수 있으며, 주요 이슈 트러블슈팅을 할 수 있고 내부구조에 대해 이해하고 있음|<img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">|
-| 2 |시스템 동작 방식을 알고 있으며, 기본적인 기능을 구현할 수 있음|<img src="https://img.shields.io/badge/Firebase -FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white">|
-| 1 |코드를 읽을 수 있으며, 책을 참고하여 약간의 수정작업 또는 작은 변경사항 추가를 할 수 있음|<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">|
+| Proficiency | Plugin | Stack |
+| ------ | ------ | ------ |
+| 4 | 대규모 프로그램을 참고사항 없이 개발할 수 있으며, 일반적이지 않은 부분도 참고를 통해 개발할 수 있음 | - |
+| 3 | 중간규모 프로그램 및 시스템을 개발할수 있으며, 주요 이슈 트러블슈팅을 할 수 있고 내부구조에 대해 이해하고 있음 | ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Java-3f00ff?style=flat-square&logo=Java) ![Tech Blog Badge](http://img.shields.io/badge/-FireBase-990000?style=flat-square&logo=FireBase)|
+| 2 | 시스템 동작 방식을 알고 있으며, 기본적인 기능을 구현할 수 있음 | ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin) |
+| 1 | 코드를 읽을 수 있으며, 책을 참고하여 약간의 수정작업 또는 작은 변경사항 추가를 할 수 있음 | ![Tech Blog Badge](http://img.shields.io/badge/-SpringBoot-b4eeb4?style=flat-square&logo=SpringBoot) ![Tech Blog Badge](http://img.shields.io/badge/-Spring-b4eeb4?style=flat-square&logo=Spring)|
 
 ***
 #### :mortar_board: 안드로이드 신입개발자  스택
