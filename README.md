@@ -20,57 +20,86 @@
 | 1 | 코드를 읽을 수 있으며, 책을 참고하여 약간의 수정작업 또는 작은 변경사항 추가를 할 수 있음 | ![Tech Blog Badge](http://img.shields.io/badge/-SpringBoot-b4eeb4?style=flat-square&logo=SpringBoot) ![Tech Blog Badge](http://img.shields.io/badge/-Spring-b4eeb4?style=flat-square&logo=Spring)|
 
 ***
-#### :mortar_board: 안드로이드 신입개발자  스택
-+ 안드로이드 기본 기능 활용
-  + [브로드캐스트리시버 활용](https://github.com/tnvnfdla1214/BroadcastReceiver)
-  + [RecyclerView 활용](https://github.com/tnvnfdla1214/Recyclerview)
-  + [Fragment](https://github.com/tnvnfdla1214/Fragment)
-+ [SNS 회원가입/로그인](https://github.com/tnvnfdla1214/SNS_Login)
-+ [외부 리소스 활용(오픈 API 활용)](https://github.com/tnvnfdla1214/Airbnb_project)
-+ Firebase 활용 (서버 & DB)
-  + [Firebase-Auth](https://github.com/tnvnfdla1214/SNS_Login)
-  + [FireStore](https://github.com/tnvnfdla1214/FireStore/blob/main/README.md) 
-  + [Storage](https://github.com/tnvnfdla1214/FireStore/blob/main/README.md)
-  + [FCM](https://github.com/tnvnfdla1214/BroadcastReceiver)
-+ 비동기 처리(Coroutines)
-  + [코루틴 설명](https://github.com/tnvnfdla1214/Coroutine-Infomation)
-  + [코루틴 튜토리얼](https://github.com/tnvnfdla1214/Coroutine_-tutorial)
-+ [위치정보 활용](https://github.com/tnvnfdla1214/Airbnb_project)
-+ JetPack 라이브러리 활용
-  + [Sunflower](https://github.com/tnvnfdla1214/Sunflower_info)
-     + [Navigation](https://github.com/tnvnfdla1214/Sunflower_Navigation)
-     + [Hilt](https://github.com/tnvnfdla1214/Sunflower_Hilt)
-     + [View](https://github.com/tnvnfdla1214/Sunflower_View)
-     + [VIewModel](https://github.com/tnvnfdla1214/Sunflower_ViewModel)
-     + [Model](https://github.com/tnvnfdla1214/Sunflower_Model)
-  + [ViewPager2](https://github.com/tnvnfdla1214/Airbnb_project)
-  + [Notifications](https://github.com/tnvnfdla1214/BroadcastReceiver)
-  + lifecycle
-  + paging
-  + Navigation
-  + ACC
-     + [ViewModel](https://github.com/tnvnfdla1214/viewmodel22)
-     + [LiveData](https://github.com/tnvnfdla1214/LiveData)
-     + Repository
-     + [RoomDatabase](https://github.com/tnvnfdla1214/Room_Exampl)
-+ 앱 아키텍쳐 가이드
-  + UI 레이어
-  + 도메인 레이어
-  + 데이터 레이어
-  + 구성 요소간의 종속성 관리
-  + 일반적인 모범 사례
-+ 아키텍쳐 패턴
-  + [MVC와 MVP와 MVVM에 대한 간단한 설명](https://github.com/tnvnfdla1214/MVC_MVP_MVVM)
-  + [DataBinding](https://github.com/tnvnfdla1214/DataBinding_info)
-      + [1. 데이터바인딩 사용 기본 방법](https://github.com/tnvnfdla1214/Databinding_1)
-      + [2. data binding에 live data 사용 방법](https://github.com/tnvnfdla1214/DataBinding_2)
-      + [3. 리사이클러 뷰에 databinding적용해보기](https://github.com/tnvnfdla1214/DataBinding_3)
-      + [4. databinding의 Two-way Binding]()
-      + [5. DataBinding의 BindingAdapter](https://github.com/tnvnfdla1214/DataBinding_4)
-      + [6. DataBinding 예시 프로젝트](https://github.com/tnvnfdla1214/DataBinding_ex)
-  + [MVVM에 대하여](https://github.com/tnvnfdla1214/MVVM)
-  + 다자인 패턴과 클린 아키텍쳐
+## 📜 Android Essential Stack 
 
+<details> 
+  <summary>Android Basic function</summary> 
+  
+   - [BroadcastReceiver](https://github.com/tnvnfdla1214/BroadcastReceiver)  
+   - [RecyclerView](https://github.com/tnvnfdla1214/Recyclerview)  
+   - [Fragment](https://github.com/tnvnfdla1214/Fragment)
+</details>
+<details> 
+  <summary>SNS Join/Login</summary> 
+  
+   - [SNS Join/Login](https://github.com/likppi10/SNS-Join-Login/tree/main)
+</details>
+<details> 
+  <summary>외부 리소스 활용(오픈 API 활용)</summary> 
+  
+   - [외부 리소스 활용(오픈 API 활용)](https://github.com/tnvnfdla1214/Airbnb_project)
+</details>
+<details> 
+  <summary>Firebase</summary> 
+  
+   - [Firebase-Auth](https://github.com/tnvnfdla1214/SNS_Login)
+   - [FireStore](https://github.com/tnvnfdla1214/FireStore/blob/main/README.md)
+   - [Storage](https://github.com/tnvnfdla1214/FireStore/blob/main/README.md)
+   - [FCM](https://github.com/tnvnfdla1214/BroadcastReceiver)
+</details>
+<details> 
+  <summary>Coroutine</summary> 
+  
+   - [Coroutine Concept](https://github.com/tnvnfdla1214/Coroutine-Infomation)
+   - [Coroutine Tutorial](https://github.com/tnvnfdla1214/Coroutine_-tutorial)
+</details>
+<details> 
+  <summary>JetPack</summary> 
+  
+   - [DataBinding](https://github.com/likppi10/DataBinding)
+   - Room
+   - Navigation
+   - ViewModel
+   - LiveData
+   - ViewPager2
+   - paging
+</details>
+<details> 
+  <summary>Architecture Pattern</summary> 
+  
+   - [MVC MVP MVVM](https://github.com/likppi10/MVC-MVP-MVVM/tree/main)
+   - [DataBinding](https://github.com/likppi10/DataBinding)
+   - [MVVM](https://github.com/likppi10/MVVM/tree/main)
+   - [MVVM++](https://github.com/likppi10/MVVM-/tree/main)
+   - [MVI](https://github.com/likppi10/MVI)
+   - Clean Architecture
+   - Organize
+</details>
+<details> 
+  <summary>DI</summary> 
+    
+    
+   - DI_impormation
+   - [Koin](https://github.com/likppi10/MVC-MVP-MVVM/tree/main)
+   - [Hilt](https://github.com/likppi10/DataBinding)
+</details>
+<details> 
+  <summary>앱 아키텍처 가이드</summary> 
+  
+   - [MVC MVP MVVM](https://github.com/likppi10/MVC-MVP-MVVM/tree/main)
+   - [DataBinding](https://github.com/likppi10/DataBinding)
+   - [MVVM](https://github.com/likppi10/MVVM/tree/main)
+   - [MVVM++](https://github.com/likppi10/MVVM-/tree/main)
+   - [MVI](https://github.com/likppi10/MVI)
+   - Clean Architecture
+   - Organize
+</details>
+<details> 
+  <summary>학습 프로젝트</summary> 
+  
+   - [SunFlower](https://github.com/likppi10/MVC-MVP-MVVM/tree/main)
+   - [DataBinding_example](https://github.com/tnvnfdla1214/DataBinding_ex)
+</details>
 ***
 
 #### :necktie: 참여한 프로젝트
