@@ -83,7 +83,7 @@
 <details> 
   <summary>앱 아키텍처 가이드</summary> 
   
-   - [앱 아키텍쳐 가이드란](https://github.com/likppi10/MVC-MVP-MVVM/tree/main)
+   - [앱 아키텍쳐 가이드란](https://github.com/tnvnfdla1214/App_Architecture_Guide)
    - 
 </details>
 <details> 
