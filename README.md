@@ -67,32 +67,24 @@
 <details> 
   <summary>Architecture Pattern</summary> 
   
-   - [MVC MVP MVVM](https://github.com/likppi10/MVC-MVP-MVVM/tree/main)
-   - [DataBinding](https://github.com/likppi10/DataBinding)
-   - [MVVM](https://github.com/likppi10/MVVM/tree/main)
-   - [MVVM++](https://github.com/likppi10/MVVM-/tree/main)
-   - [MVI](https://github.com/likppi10/MVI)
-   - Clean Architecture
-   - Organize
+   - [MVC MVP MVVM](https://github.com/tnvnfdla1214/MVC_MVP_MVVM)
+   - [MVVM](https://github.com/tnvnfdla1214/MVVM)
+   - [MVVM++](https://github.com/tnvnfdla1214/MVVM-)
+   - [MVI](https://github.com/tnvnfdla1214/MVI)
 </details>
 <details> 
   <summary>DI</summary> 
     
     
-   - DI_impormation
-   - [Koin](https://github.com/likppi10/MVC-MVP-MVVM/tree/main)
-   - [Hilt](https://github.com/likppi10/DataBinding)
+   - [DI 가이드]()
+   - [Koin](https://github.com/tnvnfdla1214/DI-and-Koin)
+   - [Hilt](https://github.com/tnvnfdla1214/Hilt)
 </details>
 <details> 
   <summary>앱 아키텍처 가이드</summary> 
   
-   - [MVC MVP MVVM](https://github.com/likppi10/MVC-MVP-MVVM/tree/main)
-   - [DataBinding](https://github.com/likppi10/DataBinding)
-   - [MVVM](https://github.com/likppi10/MVVM/tree/main)
-   - [MVVM++](https://github.com/likppi10/MVVM-/tree/main)
-   - [MVI](https://github.com/likppi10/MVI)
-   - Clean Architecture
-   - Organize
+   - [앱 아키텍쳐 가이드란](https://github.com/likppi10/MVC-MVP-MVVM/tree/main)
+   - 
 </details>
 <details> 
   <summary>학습 프로젝트</summary> 
