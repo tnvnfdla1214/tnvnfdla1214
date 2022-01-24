@@ -84,7 +84,7 @@
   <summary>앱 아키텍처 가이드</summary> 
   
    - [앱 아키텍쳐 가이드란](https://github.com/tnvnfdla1214/App_Architecture_Guide)
-   - 
+   - [UI 레이어](https://github.com/tnvnfdla1214/UI_Layer)
 </details>
 <details> 
   <summary>학습 프로젝트</summary> 
