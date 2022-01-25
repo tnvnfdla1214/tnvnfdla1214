@@ -86,7 +86,7 @@
    - [앱 아키텍쳐 가이드란](https://github.com/tnvnfdla1214/App_Architecture_Guide)
    - [UI 레이어](https://github.com/tnvnfdla1214/UI_Layer)
    - [Data 레이어](https://github.com/tnvnfdla1214/Data_Layer)
-   - [Domain 레이어]()
+   - [Domain 레이어](https://github.com/tnvnfdla1214/Domain_Layer)
 </details>
 <details> 
   <summary>학습 프로젝트</summary> 
@@ -95,6 +95,7 @@
    - [DataBinding_example](https://github.com/tnvnfdla1214/DataBinding_ex)
    - [StateFlow_example](https://github.com/tnvnfdla1214/User_StateFlow)
    - [Flow_example](https://github.com/tnvnfdla1214/ToDoApp)
+   - [앱 아키택쳐 가이드_example](https://github.com/tnvnfdla1214/ToDo)
 </details>
 
 ***
@@ -113,5 +114,5 @@
 + [MVVM 예제 프로젝트](https://github.com/tnvnfdla1214/MvvmExample) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
 + [코루틴 깃허브 레파지토리 앱](https://github.com/tnvnfdla1214/github_repository) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
 + [ToDo](https://github.com/tnvnfdla1214/ToDo) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
-+ 지하철 도착예정 (+ 추가예정)
-+ 배달앱 (+ 추가예정)
++ 지하철 도착예정 (+ 추가예정) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
++ 배달앱 (+ 추가예정) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
