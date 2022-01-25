@@ -85,6 +85,8 @@
   
    - [앱 아키텍쳐 가이드란](https://github.com/tnvnfdla1214/App_Architecture_Guide)
    - [UI 레이어](https://github.com/tnvnfdla1214/UI_Layer)
+   - [Data 레이어](https://github.com/tnvnfdla1214/Data_Layer)
+   - [Domain 레이어]()
 </details>
 <details> 
   <summary>학습 프로젝트</summary> 
