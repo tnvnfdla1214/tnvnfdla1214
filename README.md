@@ -58,7 +58,7 @@
   
    - [DataBinding](https://github.com/tnvnfdla1214/DataBinding_info)
    - Room
-   - Navigation
+   - [Navigation](https://github.com/tnvnfdla1214/Navigation)
    - ViewModel
    - [LiveData](https://github.com/tnvnfdla1214/LiveData)
    - ViewPager2
