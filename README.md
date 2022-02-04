@@ -108,6 +108,7 @@
 + [Thieves](https://github.com/tnvnfdla1214/VR-Game/blob/master/README.md) <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
 
 :penguin:개인
++ [배달앱](https://github.com/tnvnfdla1214/DelevryProject) (+ 추가예정) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
 + [맛집 찾기](https://github.com/tnvnfdla1214/restaurant) <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 + [애에비엔비](https://github.com/tnvnfdla1214/Airbnb_project) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
 + [룸 예제 프로젝트](https://github.com/tnvnfdla1214/Room_Example) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
@@ -115,4 +116,4 @@
 + [코루틴 깃허브 레파지토리 앱](https://github.com/tnvnfdla1214/github_repository) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
 + [ToDo](https://github.com/tnvnfdla1214/ToDo) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
 + 지하철 도착예정 (+ 추가예정) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
-+ 배달앱 (+ 추가예정) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
+
