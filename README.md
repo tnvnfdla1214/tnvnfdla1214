@@ -115,5 +115,3 @@
 + [MVVM 예제 프로젝트](https://github.com/tnvnfdla1214/MvvmExample) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
 + [코루틴 깃허브 레파지토리 앱](https://github.com/tnvnfdla1214/github_repository) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
 + [ToDo](https://github.com/tnvnfdla1214/ToDo) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
-+ 지하철 도착예정 (+ 추가예정) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
-
