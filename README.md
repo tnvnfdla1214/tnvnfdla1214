@@ -32,7 +32,7 @@
 <details> 
   <summary>SNS Join/Login</summary> 
   
-   - [SNS Join/Login](https://github.com/likppi10/SNS-Join-Login/tree/main)
+   - [SNS Join/Login](https://github.com/tnvnfdla1214/SNS-Join-Login)
 </details>
 <details> 
   <summary>외부 리소스 활용(오픈 API 활용)</summary> 
