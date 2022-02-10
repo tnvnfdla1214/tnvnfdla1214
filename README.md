@@ -111,7 +111,8 @@
 ## 📜 코딩테스트
 
 <details> 
-  <summary>완전탐색</summary> 
+  <summary>코딩테스트 전 외워야 할 </summary>
+  <summary>완전탐색</summary>
   
    - [중요문제](https://github.com/tnvnfdla1214/HTML_Imfomation)
 </details>
