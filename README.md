@@ -111,7 +111,10 @@
 ## 📜 코딩테스트
 
 <details> 
-  <summary>코딩테스트</summary>
+  <summary>코딩테스트 전 외워야 할 것들</summary>
+   - [String](https://github.com/tnvnfdla1214/HTML_Imfomation)
+   - [CSS 기본 & 속성]()
+   - [웹페이지 제작 실전]()
 </details>
 
 ***
