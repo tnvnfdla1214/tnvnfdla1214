@@ -111,11 +111,16 @@
 ## 📜 코딩테스트
 
 <details> 
-  <summary>코딩테스트 전 외워야 할 것들</summary>
-   - [String](https://github.com/tnvnfdla1214/HTML_Imfomation)
-   - [CSS 기본 & 속성]()
-   - [웹페이지 제작 실전]()
+  <summary>코딩테스트 전 외워야 하는 것들</summary> 
+  
+   - [String](https://github.com/tnvnfdla1214/CodingTest_String)
+   - [DataBinding_example](https://github.com/tnvnfdla1214/DataBinding_ex)
+   - [StateFlow_example](https://github.com/tnvnfdla1214/User_StateFlow)
+   - [Flow_example](https://github.com/tnvnfdla1214/ToDoApp)
+   - [앱 아키택쳐 가이드_example](https://github.com/tnvnfdla1214/ToDo)
 </details>
+
+
 
 ***
 #### :necktie: 참여한 프로젝트
