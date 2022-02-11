@@ -108,21 +108,6 @@
    - [웹페이지 제작 실전]()
 </details>
 
-## 📜 코딩테스트
-
-<details> 
-  <summary>코딩테스트 전 외워야 하는 것들</summary> 
-  
-   - [문자열](https://cafe.naver.com/tnvnfdla1214)
-   - [Array](https://cafe.naver.com/tnvnfdla1214)
-   - [Map과 Set](https://cafe.naver.com/tnvnfdla1214)
-   - [StateFlow_example](https://github.com/tnvnfdla1214/User_StateFlow)
-   - [Flow_example](https://github.com/tnvnfdla1214/ToDoApp)
-   - [앱 아키택쳐 가이드_example](https://github.com/tnvnfdla1214/ToDo)
-</details>
-
-
-
 ***
 #### :necktie: 참여한 프로젝트
 
