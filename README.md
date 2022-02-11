@@ -113,8 +113,9 @@
 <details> 
   <summary>코딩테스트 전 외워야 하는 것들</summary> 
   
-   - [String](https://github.com/tnvnfdla1214/CodingTest_String)
-   - [DataBinding_example](https://github.com/tnvnfdla1214/DataBinding_ex)
+   - [문자열](https://cafe.naver.com/tnvnfdla1214)
+   - [Array](https://cafe.naver.com/tnvnfdla1214)
+   - [Map과 Set](https://cafe.naver.com/tnvnfdla1214)
    - [StateFlow_example](https://github.com/tnvnfdla1214/User_StateFlow)
    - [Flow_example](https://github.com/tnvnfdla1214/ToDoApp)
    - [앱 아키택쳐 가이드_example](https://github.com/tnvnfdla1214/ToDo)
