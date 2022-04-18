@@ -11,7 +11,13 @@
     <br>
 </p>
 
-####  💪 SKILLS
+### 🏅 Rank
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnvnfdla1214)](https://solved.ac/tnvnfdla1214)
+
+
+###  💪 SKILLS
 | Proficiency | Plugin | Stack |
 | ------ | ------ | ------ |
 | 4 | 대규모 프로그램을 참고사항 없이 개발할 수 있으며, 일반적이지 않은 부분도 참고를 통해 개발할 수 있음 | - |
@@ -20,7 +26,7 @@
 | 1 | 코드를 읽을 수 있으며, 책을 참고하여 약간의 수정작업 또는 작은 변경사항 추가를 할 수 있음 | ![Tech Blog Badge](http://img.shields.io/badge/-SpringBoot-b4eeb4?style=flat-square&logo=SpringBoot) ![Tech Blog Badge](http://img.shields.io/badge/-Spring-b4eeb4?style=flat-square&logo=Spring)|
 
 ***
-## 📜 Android Essential Stack 
+### 📜 Android Essential Stack 
 
 <details> 
   <summary>Android Basic function</summary> 
@@ -99,19 +105,26 @@
 </details>
 
 ***
-#### :necktie: 참여한 프로젝트
+### :necktie: 참여한 프로젝트
 
-:elephant:팀
-+ [조치원 수호대](https://github.com/tnvnfdla1214/homemade_guardian) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
-+ [체크 메모장](https://github.com/tnvnfdla1214/CheckAlarmList) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
-+ [Malang](https://github.com/tnvnfdla1214/Malang) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
+**:elephant:TEAM**
++ [조치원 수호대](https://github.com/tnvnfdla1214/homemade_guardian) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Java-3f00ff?style=flat-square&logo=Java)
++ [체크 메모장](https://github.com/tnvnfdla1214/CheckAlarmList) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Java-3f00ff?style=flat-square&logo=Java)
++ [Malang](https://github.com/tnvnfdla1214/Malang) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Java-3f00ff?style=flat-square&logo=Java)
 + [Thieves](https://github.com/tnvnfdla1214/VR-Game/blob/master/README.md) <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
 
-:penguin:개인
-+ [배달앱](https://github.com/tnvnfdla1214/DelevryProject) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
-+ [맛집 찾기](https://github.com/tnvnfdla1214/restaurant) <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-+ [애에비엔비](https://github.com/tnvnfdla1214/Airbnb_project) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
-+ [룸 예제 프로젝트](https://github.com/tnvnfdla1214/Room_Example) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
-+ [MVVM 예제 프로젝트](https://github.com/tnvnfdla1214/MvvmExample) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
-+ [코루틴 깃허브 레파지토리 앱](https://github.com/tnvnfdla1214/github_repository) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
-+ [ToDo](https://github.com/tnvnfdla1214/ToDo) <img src="https://img.shields.io/badge/android -3DDC84?style=for-the-badge&logo=android&logoColor=white">
+**:penguin:개인**
++ [배달앱](https://github.com/tnvnfdla1214/DelevryProject) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
++ [코로나 센터App](https://github.com/tnvnfdla1214/Covid19_Map) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
++ [맛집 찾기](https://github.com/tnvnfdla1214/restaurant) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
++ [애에비엔비](https://github.com/tnvnfdla1214/Airbnb_project) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
++ [깃허브 레파지토리 앱](https://github.com/tnvnfdla1214/github_repository) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
+
+**🍒학습용 프로젝트**
++ [StateFlow 학습 프로젝트](https://github.com/tnvnfdla1214/User_StateFlow) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
++ [Sunflower 학습 프로젝트](https://github.com/tnvnfdla1214/Sunflower_info) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
++ [Flow 학습 프로젝트](https://github.com/tnvnfdla1214/ToDoApp) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
++ [구글 앱 아키택쳐 가이드 프로젝트](https://github.com/tnvnfdla1214/ToDo) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
++ [MVVM 프로젝트](https://github.com/tnvnfdla1214/MvvmExample) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
++ [Room 프로젝트](https://github.com/tnvnfdla1214/Room_Example) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
++ 
