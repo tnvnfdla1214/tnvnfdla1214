@@ -63,11 +63,11 @@
   <summary>JetPack</summary> 
   
    - [DataBinding](https://github.com/tnvnfdla1214/DataBinding_info)
-   - Room
+   - [Room](https://github.com/tnvnfdla1214/Room_Example)
    - [Navigation](https://github.com/tnvnfdla1214/Navigation)
-   - ViewModel
+   - [ViewModel](https://github.com/tnvnfdla1214/viewmodel22)
    - [LiveData](https://github.com/tnvnfdla1214/LiveData)
-   - ViewPager2
+   - [ViewPager2](https://github.com/tnvnfdla1214/Airbnb_project)
    - paging
 </details>
 <details> 
@@ -81,8 +81,6 @@
 <details> 
   <summary>DI</summary> 
     
-    
-   - [DI 가이드]()
    - [Koin](https://github.com/tnvnfdla1214/DI-and-Koin)
    - [Hilt](https://github.com/tnvnfdla1214/Hilt)
 </details>
@@ -93,15 +91,6 @@
    - [UI 레이어](https://github.com/tnvnfdla1214/UI_Layer)
    - [Data 레이어](https://github.com/tnvnfdla1214/Data_Layer)
    - [Domain 레이어](https://github.com/tnvnfdla1214/Domain_Layer)
-</details>
-<details> 
-  <summary>학습 프로젝트</summary> 
-  
-   - [SunFlower](https://github.com/tnvnfdla1214/Sunflower_info)
-   - [DataBinding_example](https://github.com/tnvnfdla1214/DataBinding_ex)
-   - [StateFlow_example](https://github.com/tnvnfdla1214/User_StateFlow)
-   - [Flow_example](https://github.com/tnvnfdla1214/ToDoApp)
-   - [앱 아키택쳐 가이드_example](https://github.com/tnvnfdla1214/ToDo)
 </details>
 
 ***
