@@ -75,7 +75,7 @@
   
    - [DataBinding](https://github.com/tnvnfdla1214/DataBinding_info)
    - [Room](https://github.com/tnvnfdla1214/Room_Example)
-   - [Navigation](https://github.com/tnvnfdla1214/Navigation)
+   - Navigation
    - [ViewModel](https://github.com/tnvnfdla1214/viewmodel22)
    - [LiveData](https://github.com/tnvnfdla1214/LiveData)
    - [ViewPager2](https://github.com/tnvnfdla1214/Airbnb_project)
