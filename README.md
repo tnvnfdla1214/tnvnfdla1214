@@ -65,6 +65,12 @@
    - [Coroutine Tutorial](https://github.com/tnvnfdla1214/Coroutine_-tutorial)
 </details>
 <details> 
+  <summary>DI</summary> 
+    
+   - [Koin](https://github.com/tnvnfdla1214/DI-and-Koin)
+   - [Hilt](https://github.com/tnvnfdla1214/Hilt)
+</details>
+<details> 
   <summary>JetPack</summary> 
   
    - [DataBinding](https://github.com/tnvnfdla1214/DataBinding_info)
@@ -76,26 +82,26 @@
    - paging
 </details>
 <details> 
-  <summary>Architecture Pattern</summary> 
-  
-   - [MVC MVP MVVM](https://github.com/tnvnfdla1214/MVC_MVP_MVVM)
-   - [MVVM](https://github.com/tnvnfdla1214/MVVM)
-   - [MVVM++](https://github.com/tnvnfdla1214/MVVM-)
-   - [MVI](https://github.com/tnvnfdla1214/MVI)
-</details>
-<details> 
-  <summary>DI</summary> 
-    
-   - [Koin](https://github.com/tnvnfdla1214/DI-and-Koin)
-   - [Hilt](https://github.com/tnvnfdla1214/Hilt)
-</details>
-<details> 
-  <summary>앱 아키텍처 가이드</summary> 
+  <summary>Google-Architecture</summary> 
   
    - [앱 아키텍쳐 가이드란](https://github.com/tnvnfdla1214/App_Architecture_Guide)
    - [UI 레이어](https://github.com/tnvnfdla1214/UI_Layer)
    - [Data 레이어](https://github.com/tnvnfdla1214/Data_Layer)
    - [Domain 레이어](https://github.com/tnvnfdla1214/Domain_Layer)
+   - [stateFlow](https://github.com/tnvnfdla1214/User_StateFlow)
+   - [stateFlow2](https://github.com/tnvnfdla1214/Flow)
+   - 모듈의 독립화
+</details>
+<details> 
+  <summary>Design Pattern</summary> 
+  
+   - [MVC MVP MVVM](https://github.com/tnvnfdla1214/MVC_MVP_MVVM)
+   - [MVVM](https://github.com/tnvnfdla1214/MVVM)
+   - [MVVM++](https://github.com/tnvnfdla1214/MVVM-)
+   - [MVI](https://github.com/tnvnfdla1214/MVI)
+   - [State Pattern](https://github.com/tnvnfdla1214/StatePattenSample)
+   - [Flow](https://github.com/tnvnfdla1214/ToDoApp)
+   
 </details>
 
 ***
