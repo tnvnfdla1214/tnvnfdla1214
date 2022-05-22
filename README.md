@@ -88,8 +88,7 @@
    - [UI 레이어](https://github.com/tnvnfdla1214/UI_Layer)
    - [Data 레이어](https://github.com/tnvnfdla1214/Data_Layer)
    - [Domain 레이어](https://github.com/tnvnfdla1214/Domain_Layer)
-   - [stateFlow](https://github.com/tnvnfdla1214/User_StateFlow)
-   - [stateFlow2](https://github.com/tnvnfdla1214/Flow)
+   - [stateFlow](https://github.com/tnvnfdla1214/Flow)
    - 모듈의 독립화
 </details>
 <details> 
