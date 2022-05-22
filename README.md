@@ -48,7 +48,7 @@
 <details> 
   <summary>외부 리소스 활용(오픈 API 활용)</summary> 
   
-   - [외부 리소스 활용(오픈 API 활용)](https://github.com/tnvnfdla1214/Airbnb_project)
+   - [외부 리소스 활용(오픈 API 활용)](https://github.com/tnvnfdla1214/Leverage_external_resources)
 </details>
 <details> 
   <summary>Firebase</summary> 
