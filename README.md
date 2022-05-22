@@ -121,8 +121,17 @@
 + [깃허브 레파지토리 앱](https://github.com/tnvnfdla1214/github_repository) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
 
 **🍒학습용 프로젝트**
-+ [StateFlow 학습 프로젝트](https://github.com/tnvnfdla1214/User_StateFlow) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
-+ [Sunflower 학습 프로젝트](https://github.com/tnvnfdla1214/Sunflower_info) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
+<details> 
+  <summary>Sunflower 학습 프로젝트</summary> 
+    
+   - [소개](https://github.com/tnvnfdla1214/Sunflower_info)
+   - [Model](https://github.com/tnvnfdla1214/Sunflower_Model)
+   - [ViewModel](https://github.com/tnvnfdla1214/Sunflower_ViewModel)
+   - [View](https://github.com/tnvnfdla1214/Sunflower_View)
+   - [Hilt](https://github.com/tnvnfdla1214/Sunflower_Hilt)
+   - [Navigation](https://github.com/tnvnfdla1214/Sunflower_Navigation)
+   
+</details>
 + [Flow 학습 프로젝트](https://github.com/tnvnfdla1214/ToDoApp) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
 + [구글 앱 아키택쳐 가이드 프로젝트](https://github.com/tnvnfdla1214/ToDo) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
 + [MVVM 프로젝트](https://github.com/tnvnfdla1214/MvvmExample) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
