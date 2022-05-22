@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=20b2aa&text=Mingyu's%20GIT&fontAlign=80&fontSize=40&fontColor=009999)
 
-## ABOUT ME
-[<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>](https://www.notion.so/9b6802ad41bc42c8b948ef3850b6d630)
+## :cop:ABOUT ME:cop:
+- :point_right: **Android Load Map** : [<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>](https://www.notion.so/9b6802ad41bc42c8b948ef3850b6d630)
+- :point_right: **실전 코딩테스트** : [<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>](https://pointy-hourglass-08a.notion.site/526978c06b234bf2b6fb3fc7621fcefb)
 
 <h2 align = center><b>⚙️  Tech Stack ⚙️ </h2>
 <p align = center>
