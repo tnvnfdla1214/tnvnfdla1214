@@ -1,4 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=20b2aa&text=Mingyu's%20GIT&fontAlign=80&fontSize=40&fontColor=009999)
+
+## ABOUT ME
+[<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>](https://www.notion.so/9b6802ad41bc42c8b948ef3850b6d630)
+
 <h2 align = center><b>⚙️  Tech Stack ⚙️ </h2>
 <p align = center>
     <img src="http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
