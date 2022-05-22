@@ -115,7 +115,6 @@
 **:penguin:개인**
 + [배달의 민족](https://github.com/tnvnfdla1214/DelevryProject) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
 + [코로나 센터서비스](https://github.com/tnvnfdla1214/Covid19_Map) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
-+ [맛집 찾기](https://github.com/tnvnfdla1214/restaurant) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
 + [애에비엔비](https://github.com/tnvnfdla1214/Airbnb_project) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
 + [깃허브 레파지토리 앱](https://github.com/tnvnfdla1214/github_repository) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
 
