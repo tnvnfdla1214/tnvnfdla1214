@@ -13,8 +13,9 @@
 </p>
 
 ## :cop:ABOUT ME:cop:
-- :point_right: **Android Load Map** : [<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>](https://www.notion.so/9b6802ad41bc42c8b948ef3850b6d630)
-- :point_right: **실전 코딩테스트** : [<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>](https://pointy-hourglass-08a.notion.site/526978c06b234bf2b6fb3fc7621fcefb)
+아래의 Notion을 클릭하시면 더 자세한 학습 기술 블로그를 확인해 보실 수 있습니다. 
+- :point_right: **Android Load Map** : [<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>](https://www.notion.so/Load-Map-31e63c9051da46db8c482df337f69a0c)
+- :point_right: **실전 코딩테스트** : [<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>](https://www.notion.so/Load-Map-31e63c9051da46db8c482df337f69a0c)
 
 ### 🏅 Rank
 
