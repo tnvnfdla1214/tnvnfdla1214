@@ -108,6 +108,7 @@
 ### :necktie: 참여한 프로젝트
 
 **:elephant:TEAM**
++ [pozi](https://github.com/Nexters/pozi_android) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin)
 + [조치원 수호대](https://github.com/tnvnfdla1214/homemade_guardian) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Java-3f00ff?style=flat-square&logo=Java)
 + [체크 메모장](https://github.com/tnvnfdla1214/CheckAlarmList) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Java-3f00ff?style=flat-square&logo=Java)
 + [Malang](https://github.com/tnvnfdla1214/Malang) ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Java-3f00ff?style=flat-square&logo=Java)
