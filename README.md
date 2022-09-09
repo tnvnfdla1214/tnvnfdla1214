@@ -14,8 +14,8 @@
 
 ## :cop:ABOUT ME:cop:
 아래의 Notion을 클릭하시면 더 자세한 학습 기술 블로그를 확인해 보실 수 있습니다. 
-- :point_right: **Android Load Map** : [<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>](https://www.notion.so/Load-Map-31e63c9051da46db8c482df337f69a0c)
-- :point_right: **실전 코딩테스트** : [<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>](https://www.notion.so/Load-Map-31e63c9051da46db8c482df337f69a0c)
+- :point_right: [**개인 블로그**](https://androidpangyo.tistory.com/)
+- :point_right: [실전 코딩테스트](https://www.notion.so/Load-Map-31e63c9051da46db8c482df337f69a0c)
 
 ### 🏅 Rank
 
