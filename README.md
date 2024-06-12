@@ -1,18 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=20b2aa&text=Mingyu's%20GIT&fontAlign=80&fontSize=40&fontColor=009999)
-
-<h2 align = center><b>⚙️  Tech Stack ⚙️ </h2>
-<p align = center>
-    <img src="http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp
-    <img src="http://img.shields.io/badge/-Java-3f00ff?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-    <img src="http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
-    <br>
-    <img src="http://img.shields.io/badge/-Spring-b4eeb4?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-    <img src="http://img.shields.io/badge/-SpringBoot-b4eeb4?style=flat-square&logo=SpringBoot"/></a>&nbsp
-    <img src="http://img.shields.io/badge/-FireBase-990000?style=flat-square&logo=FireBase"/></a>&nbsp
-    <br>
-</p>
-
-
 ***
 ### 📜 Android Essential Stack 
 
