@@ -12,24 +12,6 @@
     <br>
 </p>
 
-## :cop:ABOUT ME:cop:
-아래의 Notion을 클릭하시면 더 자세한 학습 기술 블로그를 확인해 보실 수 있습니다. 
-- :point_right: [**개인 블로그**](https://androidpangyo.tistory.com/)
-- :point_right: [실전 코딩테스트](https://www.notion.so/Load-Map-31e63c9051da46db8c482df337f69a0c)
-
-### 🏅 Rank
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnvnfdla1214)](https://solved.ac/tnvnfdla1214)
-
-
-###  💪 SKILLS
-| Proficiency | Plugin | Stack |
-| ------ | ------ | ------ |
-| 4 | 대규모 프로그램을 참고사항 없이 개발할 수 있으며, 일반적이지 않은 부분도 참고를 통해 개발할 수 있음 | - |
-| 3 | 중간규모 프로그램 및 시스템을 개발할수 있으며, 주요 이슈 트러블슈팅을 할 수 있고 내부구조에 대해 이해하고 있음 | ![Tech Blog Badge](http://img.shields.io/badge/-Android-0e6548?style=flat-square&logo=Android) ![Tech Blog Badge](http://img.shields.io/badge/-Java-3f00ff?style=flat-square&logo=Java) ![Tech Blog Badge](http://img.shields.io/badge/-FireBase-990000?style=flat-square&logo=FireBase)|
-| 2 | 시스템 동작 방식을 알고 있으며, 기본적인 기능을 구현할 수 있음 | ![Tech Blog Badge](http://img.shields.io/badge/-Kotlin-b7b1e9?style=flat-square&logo=Kotlin) |
-| 1 | 코드를 읽을 수 있으며, 책을 참고하여 약간의 수정작업 또는 작은 변경사항 추가를 할 수 있음 | ![Tech Blog Badge](http://img.shields.io/badge/-SpringBoot-b4eeb4?style=flat-square&logo=SpringBoot) ![Tech Blog Badge](http://img.shields.io/badge/-Spring-b4eeb4?style=flat-square&logo=Spring)|
 
 ***
 ### 📜 Android Essential Stack 
